@@ -47,7 +47,7 @@ return [
     'in_array'             => ':Attribute não existe em :other.',
     'integer'              => ':Attribute deve ser um inteiro.',
     'ip'                   => ':Attribute deve ser um endereço IP válido.',
-	'ipv4'                 => ':Attribute deve ser um endereço IPv4 válido.',
+    'ipv4'                 => ':Attribute deve ser um endereço IPv4 válido.',
     'ipv6'                 => ':Attribute deve ser um endereço IPv6 válido.',
     'json'                 => ':Attribute deve ser um JSON válido.',
     'max'                  => [
